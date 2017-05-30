@@ -5,6 +5,8 @@ I created an example how a client communicatates with a server using UDP(USER DA
 This example can be used for educational purposes.
 
 ## Test Example
+![alt text](http://i.imgur.com/k9BoPFD.png)
+
 
 
 
