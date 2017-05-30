@@ -5,10 +5,10 @@ I created an example how a client communicatates with a server using UDP(USER DA
 This example can be used for educational purposes.
 
 ## Test Example
-Client:
+
 ![alt text](http://i.imgur.com/k9BoPFD.png)
 
-Server:
+
 ![alt text](http://i.imgur.com/YpCqKWY.png)
 
 
